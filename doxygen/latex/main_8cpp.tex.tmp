@@ -1,0 +1,27 @@
+\hypertarget{main_8cpp}{}\section{/home/andreas/\+Desktop/\+Andreas/musical\+\_\+instruments\+\_\+inheritance/src/main.cpp File Reference}
+\label{main_8cpp}\index{/home/andreas/\+Desktop/\+Andreas/musical\+\_\+instruments\+\_\+inheritance/src/main.\+cpp@{/home/andreas/\+Desktop/\+Andreas/musical\+\_\+instruments\+\_\+inheritance/src/main.\+cpp}}
+
+
+File contains main function.  
+
+
+{\ttfamily \#include $<$iostream$>$}\\*
+Include dependency graph for main.\+cpp\+:
+% FIG 0
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{main_8cpp_a468a1ab372275be49f5973e42a217c7e}{test\+\_\+inheritance} ()\hypertarget{main_8cpp_a468a1ab372275be49f5973e42a217c7e}{}\label{main_8cpp_a468a1ab372275be49f5973e42a217c7e}
+
+\begin{DoxyCompactList}\small\item\em Tests for polymorphic calls, multiple inheritance, static members and abstract class. \end{DoxyCompactList}\item 
+void \hyperlink{main_8cpp_aef1d2cda52f968381dd07b7e2761452d}{test\+\_\+non\+\_\+polymorphic\+\_\+inheritance} ()\hypertarget{main_8cpp_aef1d2cda52f968381dd07b7e2761452d}{}\label{main_8cpp_aef1d2cda52f968381dd07b7e2761452d}
+
+\begin{DoxyCompactList}\small\item\em Tests for non polymorphic calls, single inheritance, orders of constructors and destructors calls. \end{DoxyCompactList}\item 
+int \hyperlink{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}{main} ()\hypertarget{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}{}\label{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}
+
+\begin{DoxyCompactList}\small\item\em Executes, program displays information about test and runs test functions. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+File contains main function. 
+

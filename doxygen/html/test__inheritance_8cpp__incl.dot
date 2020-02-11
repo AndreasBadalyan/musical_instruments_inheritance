@@ -1,0 +1,13 @@
+digraph "/home/andreas/Desktop/Andreas/musical_instruments_inheritance/src/test_inheritance.cpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="/home/andreas/Desktop\l/Andreas/musical_instruments\l_inheritance/src/test_inheritance.cpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="musical_instruments.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$musical__instruments_8hpp.html",tooltip="File contains declaration of polymorphic multi inheritance class hierarchy of musical instruments..."];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="iostream",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="non_polymorphic_inheritance\l_flute.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$non__polymorphic__inheritance__flute_8hpp.html",tooltip="File contains declaration of Concert_flute base class and piccolo derived class. "];
+  Node4 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}
